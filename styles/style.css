@@ -1,3 +1,8 @@
 .panda_p_color{
     background-image: linear-gradient(rgb(243, 48, 48), rgb(243, 150, 150));
 }
+
+.footer-bg{
+    background-image: linear-gradient(rgb(243, 48, 48), rgb(237, 71, 71));
+
+}
